@@ -1,4 +1,4 @@
-# I will complete this read me for more information about the code and main sources
+# Develop Hard and Fuzzy Clustering Algorithms from scratch
 
 ## K-Means (aka Hard C-Means)
 
